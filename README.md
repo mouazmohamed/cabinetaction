@@ -13,7 +13,7 @@
 ---
 
 <br>
-![logo](Annexes/logo.png) ![lycee](Annexes/lycee.jpeg)
+![logo](Annexes/lgo.png) ![lycee](Annexes/lyc.jpeg)
 <br>
 <p>
     <h3 align = center>STAGE EFFECTUÉ AU SEIN DE L'ENTREPRISE CABINET ACTION
